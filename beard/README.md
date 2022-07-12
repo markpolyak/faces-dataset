@@ -56,8 +56,8 @@
 | 50 |![](/beard/50_Agutin.jpg)|М|Да|Нет|Да|[Ссылка](https://www.kakprosto.ru/kak-955137-biografiya-i-lichnaya-zhizn-leonida-agutina#:~:text=Леонид%20Агутин%20имеет%20высшее%20режиссерское,свой%20будущий%20хит%20«Босоногий%20мальчик»)|[Ссылка](https://fb.ru/post/celebrities/2020/4/22/203777) | 
 | 51 |![](/beard/51_Nikolai_Sobolev.jpg) | М  | Нет | Нет | Да |[Ссылка](https://youtube-lessons.ru/videoblogery/nikolaj-sobolev/) |[Ссылка](https://fotocpytnik.ru/stil/nikolaj-sobolev-rost.html)  |
 | 52 |![](/beard/52_Ysachev.jpg) | М  | Нет | Нет | Нет |[Ссылка](https://zen.yandex.ru/media/gdezhivet/videobloger-ruslan-usachev--biografiia-sekrety-lichnoi-jizni-i-tiajelaia-rabota-5eaa81fa102eee24419d5724)   |[Ссылка](https://newelhome.com/post/34128909655739963/%D0%A0%D1%83%D1%81%D0%BB%D0%B0%D0%BD-%D0%A3%D1%81%D0%B0%D1%87%D0%B5%D0%B2/)  |
-| 53 |![](/beard/53_Dud.jpg) | М  | Нет | Нет | Да |[Ссылка](https://toppeoples.ru/yuriy-dud/) |[Ссылка](https://problogerov.ru/jurij-dud-biografija-lichnaja-zhizn/)  |
-| 54 |![]/beard(/54_Potrnyagin.jpg) | М  | Нет | Да | Нет |[Ссылка](https://hrmonitor.ru/bio/dmitriy-portnyagin.html#i-2)  |[Ссылка](https://www.deloforum63.ru/)  |
+| 53 |![](/beard/53_Dud.jpg) | М  | Нет | Нет | Да |[Ссылка](https://toppeoples.ru/yuriy-dud/) |[Ссылка](https://problogerov.ru/jurij-dud-biografija-lichnaja-zhizn/)|
+| 54 |![](/beard/54_Potrnyagin.jpg) | М  | Нет | Да | Нет |[Ссылка](https://hrmonitor.ru/bio/dmitriy-portnyagin.html#i-2)  |[Ссылка](https://www.deloforum63.ru/)  |
 | 55 |![](/beard/55_Putin.jpg) | М  | Нет | Нет | Да |[Ссылка](https://tass.ru/info/6967925?utm_source=yandex.ru&utm_medium=organic&utm_campaign=yandex.ru&utm_referrer=yandex.ru)   |[Ссылка](https://uz.sputniknews.ru/20210414/putin-sdelal-vtoruyu-privivku-ot-covid-19--i-srazu-otpravilsya-provodit-zasedanie-18326578.html)  |
 | 56 |![](/beard/56_Moor.jpg) | М  | Нет | Нет | Да |[Ссылка](https://admtyumen.ru/ogv_ru/gov/scheme/MoorAV/Bio.htm) |[Ссылка](https://ugra-news.ru/article/pozdravleniya_s_yubileem_ot_dobrykh_sosedey/) |
 | 57 |![](/beard/57_Medvedev.jpg) | М  | Нет | Нет | Да |[Ссылка](https://ru.wikipedia.org/wiki/Медведев,_Дмитрий_Анатольевич)   |[Ссылка](https://russische-botschaft.ru/ru/medvedev/) |
@@ -79,7 +79,6 @@
 | 73 |![](/beard/73_Sergei_Orlov.jpg) | М  | Нет | Нет | Нет |[Ссылка](https://100biografiy.ru/tv/sergej-orlov)   |[Ссылка](https://uchastniki.com/bloggers/sergej-orlov.html)  |
 | 74 |![](/beard/74_Shastun.jpg) | М  | Нет | Нет | Да |[Ссылка](https://persono.ru/biography/anton-shastun/)  |[Ссылка](https://fi.pinterest.com/pin/820640363342107182/)  |
 | 75 |![](/beard/75_Niletto.jpg) | М  | Нет | Нет | Нет |[Ссылка](https://zhizn-zvezd.ru/niletto-danil-prytkov-biografiya-lichnaya-zhizn-roditeli-ego-devushka/)  |[Ссылка](https://tvcenter.ru/biz/10-sovremennyh-molodyozhnyh/?nv4dieatuy=y)  |
-
 | 76 |![](/beard/76_Milohin.jpg) | М  | Нет | Нет | Нет |[Ссылка](http://www.bolshoyvopros.ru/questions/3816936-danja-milohin-kakoe-u-nego-obrazovanie.html)  |[Ссылка](https://new-interview.ru/blogeryi/danya-milohin-vpiska/)  |
 | 77 |![](/beard/77_Uri_Loza.jpg) | М  | Нет | Нет | Да |[Ссылка](https://24smi.org/celebrity/2105-yurij-loza.html)  |[Ссылка](https://www.paparazzi.ru/blogs/Bagirova/493314/) |
 | 78 |![](/beard/78_Mihail_Shac.jpg) | М  | Нет | Нет | Да |[Ссылка](https://7days.ru/stars/bio/mikhail-shats/bio.htm) |[Ссылка](https://blitz.plus/mikhail-shac?_gl=1*1d4gtmi*_ga*Rm5fbmE5QjdFWmlRRTF2andZSDlvQ3BnclJkNzVJaTItY0kxZ2t6cDM3dlZnb1Y4UWEzdDNfZTkwS3k4Sm9jOQ..)  |
