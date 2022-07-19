@@ -27,7 +27,7 @@
 | 21 |![](/glasses/21_James_Christian_Kimmel.jpg) | M | Да | Нет | Да | [Ссылка](https://en.wikipedia.org/wiki/Jimmy_Kimmel) | [Ссылка](https://millionaire.fandom.com/wiki/Jimmy_Kimmel) |
 | 22 |![](/glasses/22_Johnny_Depp.jpg) | M | Да | Да | Нет | [Ссылка](https://en.wikipedia.org/wiki/Johnny_Depp) | [Ссылка](https://www.pinterest.com/pin/372391462920718342/) |
 | 23 |![](/glasses/23_Edward_Regan_Murphy.jpg) | M | Да | Да | Нет | [Ссылка](https://en.wikipedia.org/wiki/Eddie_Murphy) | [Ссылка](https://en.wikipedia.org/wiki/Eddie_Murphy) |
-| 24 |![](/glasses/24_Keanu_Reeves.jpg) | M | Да | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/Keanu_Reeves) | [Ссылка](https://matrix.fandom.com/wiki/Keanu_Reeves) |
+| 24 |![](/glasses/24_Chris_Pine.jpg) | M | Да | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/Chris_Pine) | [Ссылка](https://www.pinterest.ru/pin/chris-pine-glasses--559853797412788407/) |
 | 25 |![](/glasses/25_Will_Smith.jpg) | M | Да | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/Will_Smith) | [Ссылка](https://krot.info/muzhchiny/17719-uill-smit-57-foto.html) |
 | 26 |![](/glasses/26_Chris_Hemsworth.jpg) | M | Да | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/Chris_Hemsworth) | [Ссылка](https://www.instyle.com/news/chris-hemsworth-miracle-greatest-day-life-basketball) |
 | 27 |![](/glasses/27_Louis_Sebastian_Theroux.jpg) | M | Нет | Да | Да | [Ссылка](https://en.wikipedia.org/wiki/Louis_Theroux) | [Ссылка](https://www.nme.com/news/nme-merch-presents-louis-theroux-special-2011150) |
