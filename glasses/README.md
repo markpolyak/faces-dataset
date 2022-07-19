@@ -64,8 +64,8 @@
 | 58 |![](/glasses/58_Sierra_Dawn_Hull.jpg) | Ж | Нет | Нет | Да | [Ссылка](https://en.wikipedia.org/wiki/Sierra_Hull) | [Ссылка](https://alchetron.com/Sierra-Hull) |
 | 59 |![](/glasses/59_Hailee_Steinfeld.jpg) | Ж | Нет | Да | Нет | [Ссылка](https://en.wikipedia.org/wiki/Hailee_Steinfeld) | [Ссылка](https://browsecat.net/celebrities/hailee-steinfeld-hd-actress-2021-wallpapers) |
 | 60 |![](/glasses/60_Margot_Elise_Robbie.jpg) | Ж | Нет | Да | Нет | [Ссылка](https://en.wikipedia.org/wiki/Margot_Robbie) | [Ссылка](https://www.pinterest.com/pin/385620786854424141) |
-| 61 |![](/glasses/61_Kristen_Jaymes_Stewart.jpg) | Ж | Нет | Да | Нет | [Ссылка](https://en.wikipedia.org/wiki/Kristen_Stewart) | [Ссылка](https://uhd.name/1392-kristen-stjuart-49-foto.html) |
-| 62 |![](/glasses/62_Hannah_Dakota_Fanning.jpg) | Ж | Нет | Да | Нет | [Ссылка](https://en.wikipedia.org/wiki/Dakota_Fanning) | [Ссылка](https://www.pinterest.com/pin/702280135657620970/) |
+| 61 |![](/glasses/61_Anne_Jacqueline_Hathaway.jpg) | Ж | Нет | Да | Нет | [Ссылка](https://en.wikipedia.org/wiki/Anne_Hathaway) | [Ссылка](https://www.gettyimages.fi/photos/anne-hathaway-glasses) |
+| 62 |![](/glasses/62_Kaley_Christine_Cuoco.jpg) | Ж | Нет | Да | Нет | [Ссылка](https://en.wikipedia.org/wiki/Kaley_Cuoco) | [Ссылка](https://www.pinterest.ru/pin/711639178594566003/) |
 | 63 |![](/glasses/63_Sydney_Bernice_Sweeney.jpg) | Ж | Нет | Да | Нет | [Ссылка](https://en.wikipedia.org/wiki/Sydney_Sweeney) | [Ссылка](https://www.pinterest.com/pin/664984701213342955/) |
 | 64 |![](/glasses/64_Jennifer_Shrader_Lawrence.jpg) | Ж | Нет | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/Jennifer_Lawrence) | [Ссылка](https://www.pinterest.com/pin/152066924893978605/) |
 | 65 |![](/glasses/65_Zendaya_Maree_Stoermer_Coleman.jpg) | Ж | Нет | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/Zendaya) | [Ссылка](https://en.wikipedia.org/wiki/Zendaya) |
@@ -83,7 +83,7 @@
 | 77 |![](/glasses/77_Scarlett_Ingrid_Johansson.jpg) | Ж | Нет | Да | Нет | [Ссылка](https://en.wikipedia.org/wiki/Scarlett_Johansson) | [Ссылка](https://www.pinterest.com.au/pin/385057836860431001/) |
 | 78 |![](/glasses/78_Jennifer_Joanna_Aniston.jpg) | Ж | Нет | Да | Нет | [Ссылка](https://en.wikipedia.org/wiki/Jennifer_Aniston) | [Ссылка](https://www.pinterest.ru/pin/544020829979556104/) |
 | 79 |![](/glasses/79_Julia_Fiona_Roberts.jpg) | Ж | Нет | Да | Нет | [Ссылка](https://en.wikipedia.org/wiki/Julia_Roberts) | [Ссылка](http://almode.ru/stars/27043-dzhulija-roberts-66-foto.html) |
-| 80 |![](/glasses/80_Kate_Elizabeth_Winslet.jpg) | Ж | Нет | Да | Нет | [Ссылка](https://en.wikipedia.org/wiki/Kate_Winslet) | [Ссылка](https://www.thecut.com/2016/02/glasses-oscars-patricia-arquette-kate-winslet.html) |
+| 80 |![](/glasses/80_Courteney_Cox.jpg) | Ж | Нет | Да | Нет | [Ссылка](https://en.wikipedia.org/wiki/Courteney_Cox) | [Ссылка](https://www.biography.com/actor/courteney-cox) |
 | 81 |![](/glasses/81_Caroline_Louise_Flack.jpg) | Ж | Нет | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/Caroline_Flack) | [Ссылка](https://www.walesonline.co.uk/lifestyle/showbiz/caroline-flack-inquest-died-court-18718174) |
 | 82 |![](/glasses/82_Lisa_Tamsin_Faulkner.jpg) | Ж | Нет | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/Lisa_Faulkner) | [Ссылка](https://www.express.co.uk/life-style/life/959433/lisa-faulkner-weekend-john-torode-brookside-dangerfield-indian-takeaway-board-games) |
 | 83 |![](/glasses/83_Angelina_Jolie.jpg) | Ж | Нет | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/Angelina_Jolie) | [Ссылка](https://en.wikipedia.org/wiki/Angelina_Jolie) |
