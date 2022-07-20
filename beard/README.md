@@ -48,7 +48,7 @@
 | 42 |![](/beard/42_Vyacheslav_Malcev.jpg) | М  | Да | Нет | Да |[Ссылка](https://bragin-sasha.livejournal.com/4007304.html) |[Ссылка](https://www.4vsar.ru/news/88132.html) |
 | 43 |![](/beard/43_Milonov.jpg) | М  | Да | Нет | Да |[Ссылка](https://er.ru/person/444820ee-ac6d-4022-9eb7-15f0b3192d6d)   |[Ссылка](https://skolkolet.com/vitaliy-milonov)  |
 | 44 |![](/beard/44_Abramovich.jpeg) | М  | Да | Нет | Да |[Ссылка](https://vd-tv.ru/content/biografiia-romana-abramovicha)   |[Ссылка](https://www.sports.ru/tribuna/blogs/foooootballnewsssssss/3022423.html?service_comment_id=1107517838%C2%A6post%C2%A63022423) |
-| 45 |![](/beard/45_Denis_Parfenov.jpg) | М  | Да | Нет | Да |[Ссылка](https://federalcity.ru/index.php?newsid=10532)   |[Ссылка](http://duma.gov.ru/multimedia/photo/45798/) |
+| 45 |![](/beard/45parfenov.jpg) | М  | Да | Нет | Да |[Ссылка](https://federalcity.ru/index.php?newsid=10532)   |[Ссылка](https://ru.m.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D1%84%D1%91%D0%BD%D0%BE%D0%B2,_%D0%94%D0%B5%D0%BD%D0%B8%D1%81_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87) |
 | 46 |![](/beard/46_Magomed_Daylov.jpg) | М  | Да | Нет | Да |[Ссылка](https://chechnya.gov.ru/people/daudov-magomed-hozhahmedovich/)   |[Ссылка](https://m.fishki.net/anti/2098381-smi-uznali-ob-izbienii-glavy-verhovnogo-suda-chechni-spikerom-parlamenta.html)  |
 | 47 |![](/beard/47_Ulik.jpg) | М  | Да | Нет | Нет |[Ссылка](https://yandex.ru/turbo/24smi.org/s/celebrity/97112-iulii-oneshko.html)   |[Ссылка](https://top10z.ru/top-goods/test-na-skolko-xorosho-ty-znaesh-yulika.html)  |
 | 48 |![](/beard/48_Dava.jpg) | М  | Да | Нет | Да |[Ссылка](https://toppeoples.ru/dava/#Obrazovanie)   |[Ссылка](https://www.starhit.ru/novosti/dava-zakupil-odejdu-na-million-rubley-212933/)  |
