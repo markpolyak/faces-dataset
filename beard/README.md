@@ -42,7 +42,7 @@
 | 36 |![](/beard/36dorn.jpg) | М  | Да | Нет | Да |[Ссылка](https://uznayvse.ru/znamenitosti/biografiya-ivan-dorn.html)   |[Ссылка](https://www.tvoybro.com/exclusive/5979459746000011_ivan-dorn-o-privychkie-mieniatsia-proryvie-na-zapad-auditorii-miechty-i-puti-k-gremmi)  |
 | 37 |![](/beard/37_Alexei_Chumakov.jpeg) | М  | Да | Нет | Да |[Ссылка](https://biographe.ru/znamenitosti/aleksey-chumakov/)   |[Ссылка](https://tmbw.ru/aleksey-chumakov-trogatelno-pozdravil-doch-s-dnem-rozhdeniya)  |
 | 38 |![](/beard/38_Mihail_Shufutinski.jpg) | М  | Да | Нет | Да |[Ссылка](https://biographe.ru/znamenitosti/mihail-shufutinskiy/) |[Ссылка](https://www.shazam.com/ru/artist/%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0-%D0%B1%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%B6%D1%81%D0%BA%D0%B0%D1%8F-%D0%BF%D1%83%D1%89%D0%B0/983531375) |
-| 39 |![](/beard/39_Zak_Galifanski.jpg) | М  | Да | Нет | Нет |[Ссылка](https://www.kinopoisk.ru/name/44646/)  |[Ссылка](http://almode.ru/stars/30069-zak-galifianakis-65-foto.html)  |
+| 39 |![](/beard/39zakk.jpg) | М  | Да | Нет | Нет |[Ссылка](https://www.kinopoisk.ru/name/44646/)  |[Ссылка](http://almode.ru/stars/30069-zak-galifianakis-65-foto.html)  |
 | 40 |![](/beard/40_Kianu_Rivz.jpg) | М  | Да | Нет | Нет |[Ссылка](https://uznayvse.ru/znamenitosti/biografiya-kianu-rivz.html)  |[Ссылка](https://womendays.org/kianu-rivz/)  |
 | 41 |![](/beard/41_Hiu_Jackman.jpg) | М  | Да | Нет | Да |[Ссылка](https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B5%D0%BA%D0%BC%D0%B0%D0%BD,_%D0%A5%D1%8C%D1%8E)   |[Ссылка](http://almode.ru/stars/30043-hju-dzhekman-67-foto.html)  |
 | 42 |![](/beard/42_Vyacheslav_Malcev.jpg) | М  | Да | Нет | Да |[Ссылка](https://bragin-sasha.livejournal.com/4007304.html) |[Ссылка](https://www.4vsar.ru/news/88132.html) |
