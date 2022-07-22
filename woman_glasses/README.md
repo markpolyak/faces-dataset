@@ -3,6 +3,6 @@
 
 | # | Фотография | Пол | Борода | Очки | Наличие высшего образования | Источник данных о ВО | Источник фото |
 |---|---|---|---|---|---|---|---|
-| 0 |![](|woman_glasses/0.jpg) | Ж | Нет | Нет | Да | [Ссылка](https://ru.wikipedia.org/wiki/Даудна,_Дженнифер) | [Ссылка](https://ru.wikipedia.org/wiki/Даудна,_Дженнифер#/media/Файл:Professor_Jennifer_Doudna_ForMemRS_(cropped).jpg) | 
+| 0 |![](/woman_glasses/0.jpg) | Ж | Нет | Нет | Да | [Ссылка](https://ru.wikipedia.org/wiki/Даудна,_Дженнифер) | [Ссылка](https://ru.wikipedia.org/wiki/Даудна,_Дженнифер#/media/Файл:Professor_Jennifer_Doudna_ForMemRS_(cropped).jpg) | 
 | 1 |   |   |   |   |   |   |   |
 | 2 |   |   |   |   |   |   |   |
