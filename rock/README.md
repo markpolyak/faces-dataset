@@ -13,7 +13,7 @@
 | 7 |![](/rock/7Curt_Cobain.jpg) | М | Да | Нет | Нет | [Ссылка](https://ru.wikipedia.org/wiki/Кобейн,_Курт) | [Ссылка](https://wallpaperset.com/kurt-cobain-wallpaper) |
 | 8 |![](/rock/8Ozzy_Osbourne.jpg) | М | Нет | Да | Нет | [Ссылка](https://ru.wikipedia.org/wiki/Осборн,_Оззи) | [Ссылка](https://ru.pinterest.com/pin/146155950393803580/) |
 | 9 |![](/rock/12Frank_Black.jpg) | М | Нет | Да | Нет | [Ссылка](https://en.wikipedia.org/wiki/Black_Francis) | [Ссылка](https://kinoclever.ru/person/frenk-blek-1965/) |
-| 10 |![](/rock/13Dan_Reynolds.jpg) | М | Нет | Нет | Нет | [Ссылка](https://24smi.org/celebrity/92569-den-reinolds.html) | [Ссылка](https://ru.pinterest.com/pin/614882155351247225/) |
+| 10 |![](/rock/13Dan_Reynolds.jpg) | М | Да | Нет | Нет | [Ссылка](https://24smi.org/celebrity/92569-den-reinolds.html) | [Ссылка](https://ru.pinterest.com/pin/614882155351247225/) |
 | 11 |![](/rock/14Vyacheslav_Butusov.jpg) | М | Нет | Нет | Да | [Ссылка](https://biographe.ru/znamenitosti/vyacheslav-butusov/) | [Ссылка](https://biografii.net/znamenitosti/vyacheslav-butusov.html) |
 | 12 |![](/rock/15Аndrey_Мakarevich.jpg) | М | Да | Нет | Да | [Ссылка](https://svpressa.ru/persons/andrey-makarevich/) | [Ссылка](https://russianteleweek.ru/stars/ukraincy-vozmutilis-slovami-makarevicha-kotoryj-nazval-goroda-strany-zaholustem/?amp) |
 | 13 |![](/rock/16Yuri_Shevchuk.jpeg) | М | Да | Да | Да | [Ссылка](https://24smi.org/celebrity/3221-iurii-shevchuk.html) | [Ссылка](https://www.starhit.ru/novosti/jena-yuriya-shevchuka-perejivaet-za-ego-jizn-134695/) |
@@ -27,8 +27,8 @@
 | 21 |![](/rock/32Keith_Richards.jpg) | М | Нет | Нет | Нет | [Ссылка](https://ru.wikipedia.org/wiki/Ричардс,_Кит) | [Ссылка](https://www.kaleydoskop-info.ru/movies/titles/115361) |
 | 22 |![](/rock/33Keith_Moon.jpg) | М | Нет | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/Keith_Moon) | [Ссылка](https://www.fanpop.com/clubs/celebrities-who-died-young/images/39687414/title/keith-moon-august-23-1946-september-7-1978-photo) |
 | 23 |![](/rock/34Jimmy_Page.jpg) | М | Нет | Нет | Нет | [Ссылка](https://ru.wikipedia.org/wiki/Пейдж,_Джимми) | [Ссылка](https://ru.pinterest.com/pin/264797653067650220/) |
-| 24 |![](/rock/35Corey_Taylor.jpg) | М | Нет | Нет | Нет | [Ссылка](https://ru.wikipedia.org/wiki/Тейлор,_Кори) | [Ссылка](https://in.pinterest.com/pin/corey-taylor--706080047809983298/) |
-| 25 |![](/rock/36Axl_Rose.jpg) | М | Нет | Нет | Нет | [Ссылка](https://ru.wikipedia.org/wiki/Эксл_Роуз) | [Ссылка](https://ru.pinterest.com/pin/437341813806034558/) |
+| 24 |![](/rock/35Corey_Taylor.jpg) | М | Да | Нет | Нет | [Ссылка](https://ru.wikipedia.org/wiki/Тейлор,_Кори) | [Ссылка](https://in.pinterest.com/pin/corey-taylor--706080047809983298/) |
+| 25 |![](/rock/36Axl_Rose.jpg) | М | Нет | Да | Нет | [Ссылка](https://ru.wikipedia.org/wiki/Эксл_Роуз) | [Ссылка](https://ru.pinterest.com/pin/437341813806034558/) |
 | 26 |![](/rock/37Brendon_Urie.jpg) | М | Нет | Нет | Нет | [Ссылка](https://uznayvse.ru/znamenitosti/biografiya-brendon-uri.html) | [Ссылка](https://br.pinterest.com/pin/5559199528100635/) |
 | 27 |![](/rock/38Mike_Dirnt.jpg) | М | Нет | Нет | Нет | [Ссылка](https://ru.wikipedia.org/wiki/Дёрнт,_Майк) | [Ссылка](https://greendayfan.ru/majk-dyornt/) |
 | 28 |![](/rock/39Bruce_Springsteen.jpg) | М | Нет | Нет | Нет | [Ссылка](https://ru.wikipedia.org/wiki/Спрингстин,_Брюс) | [Ссылка](https://www.spl-messages.net/printer-friendly-topic/bruce-spoke-with-stellar?nc=1) |
@@ -50,7 +50,7 @@
 | 44 |![](/rock/55Svyatoslav_Vakarchuk.jpg) | М | Нет | Нет | Да | [Ссылка](https://ru.wikipedia.org/wiki/Вакарчук,_Святослав_Иванович) | [Ссылка](https://atoapiwag.ru/poslednie-novosti/news-front/23485-slugi-naroda-ne-hotjat-otpuskat-vakarchuka-iz-rady-novorossija.html) |
 | 45 |![](/rock/56Tom_Scholz.jpg) | М | Нет | Нет | Да | [Ссылка](https://ru.wikipedia.org/wiki/Шольц,_Том) | [Ссылка](https://vk.com/album-134684404_238463538) |
 | 46 |![](/rock/57Ezra_Koenig.jpg) | М | Нет | Нет | Да | [Ссылка](https://ru.wikipedia.org/wiki/Кениг,_Эзра) | [Ссылка](https://ru.pinterest.com/pin/468655904945499684/) |
-| 47 |![](/rock/58Tom_Morello.jpg) | М | Нет | Нет | Да | [Ссылка](https://ru.wikipedia.org/wiki/Морелло,_Том) | [Ссылка](https://www.loudersound.com/news/tom-morello-working-on-big-solo-rock-record) |
+| 47 |![](/rock/58Tom_Morello.jpg) | М | Да | Нет | Да | [Ссылка](https://ru.wikipedia.org/wiki/Морелло,_Том) | [Ссылка](https://www.loudersound.com/news/tom-morello-working-on-big-solo-rock-record) |
 | 48 |![](/rock/59Brian_May.jpg) | М | Нет | Нет | Да | [Ссылка](https://ru.wikipedia.org/wiki/Мэй,_Брайан) | [Ссылка](http://m.4words.ru/photo/person/6487) |
 | 49 |![](/rock/60Freddie_Mercury.jpg) | М | Да | Нет | Да | [Ссылка](https://www.thevoicemag.ru/stars/biography/freddie-mercury/) | [Ссылка](https://ru.pinterest.com/pin/509399407854036242/) |
 | 50 |![](/rock/61Yuri_Naumov.jpg) | М | Нет | Нет | Да | [Ссылка](https://ru.wikipedia.org/wiki/Наумов,_Юрий_Леонидович) | [Ссылка](https://www.baikalpoetry.ru/qa/439.html?PageSize=30&Page=1) |
