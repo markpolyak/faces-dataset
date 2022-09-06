@@ -36,7 +36,7 @@
 | 30 |![](/symphony/30.Alex_Ramm.jpg) | М | Да | Нет | Да |[Ссылка](https://meloman.ru/performer/aleksandr-ramm/) |[Ссылка](https://meloman.ru/performer/aleksandr-ramm/) |
 | 31 |![](/symphony/31.Liza_Borodaeva.jpg) | Ж | Нет | Нет | Да |[Ссылка](https://filarmonia.online/ispolniteli/shabalinaelizaveta.html) |[Ссылка](https://meloman.ru/performer/elizaveta-borodaeva/) |
 | 32 |![](/symphony/32.Tatiana_Zorkina.jpg) | Ж | Нет | Нет | Да |[Ссылка](https://14.arts.mos.ru/svedeniya-ob-obrazovatelnoy-organizatsii/structure/zorkina_tatyana_sergeevna/) |[Ссылка](https://meloman.ru/performer/tatyana-zorkina/) |
-| 33 |![](/symphony/33.Petr_Akulov.jpg) | М | Нет | Да | Да |[Ссылка](https://meloman.ru/performer/pyotr-akulov/) |[Ссылка](https://meloman.ru/performer/pyotr-akulov/) |
+| 33 |![](/symphony/33.Petr_Akulov.jpg) | М | Нет | Да | Нет |[Ссылка](https://meloman.ru/performer/pyotr-akulov/) |[Ссылка](https://meloman.ru/performer/pyotr-akulov/) |
 | 34 |![](/symphony/34.Yaroslav_abaimov.jpg) | М | Нет | Нет | Да |[Ссылка](https://meloman.ru/performer/yaroslav-abaimov/) |[Ссылка](https://meloman.ru/performer/yaroslav-abaimov/) |
 | 35 |![](/symphony/35_Nikita_Abrosimov.jpg) | М | Нет | Нет | Да |[Ссылка](https://meloman.ru/performer/nikita-abrosimov/) |[Ссылка](https://meloman.ru/performer/nikita-abrosimov/) |
 | 36 |![](/symphony/36.Petr_Aidy.jpg) | М | Нет | Нет | Да |[Ссылка](https://meloman.ru/performer/petr-ajdu/) |[Ссылка](https://meloman.ru/performer/petr-ajdu/) |
@@ -93,7 +93,7 @@
 | 87 |![](/symphony/87.valerij-zhavoronkov.jpg) | М | Нет | Нет | Да |[Ссылка](https://meloman.ru/performer/valerij-zhavoronkov/) |[Ссылка](https://meloman.ru/performer/valerij-zhavoronkov/) |
 | 88 |![](/symphony/88.aleksandr-zinger.jpg) | М| Да | Да | Да |[Ссылка](https://meloman.ru/performer/aleksandr-zinger/) |[Ссылка](https://meloman.ru/performer/aleksandr-zinger/) |
 | 89 |![](/symphony/89.Andrey_Ivanov.jpg) | М| Да | Нет | Да |[Ссылка](https://meloman.ru/performer/andrej-ivanov/) |[Ссылка](https://meloman.ru/performer/andrej-ivanov/) |
-| 90 |![](/symphony/90.Mihail_Ivanovjpg) | М| Да | Нет | Да |[Ссылка](https://meloman.ru/performer/mihail-ivanov/) |[Ссылка](https://meloman.ru/performer/mihail-ivanov/) |
+| 90 |![](/symphony/90.Mihail_Ivanovjpg.jpg) | М| Да | Нет | Да |[Ссылка](https://meloman.ru/performer/mihail-ivanov/) |[Ссылка](https://meloman.ru/performer/mihail-ivanov/) |
 | 91 |![](/symphony/91.ravil-islyamov.jpg) | М | Нет | Нет | Нет|[Ссылка](https://meloman.ru/performer/ravil-islyamov/) |[Ссылка](https://meloman.ru/performer/ravil-islyamov/) |
 | 92 |![](/symphony/92.rustam-komachkov.jpg) | М| Да | Нет | Да |[Ссылка](https://meloman.ru/performer/rustam-komachkov/) |[Ссылка](https://meloman.ru/performer/rustam-komachkov/) |
 | 93 |![](/symphony/93.pyotr-laul.jpg) | М | Нет | Нет | Да |[Ссылка](https://meloman.ru/performer/pyotr-laul/) |[Ссылка](https://meloman.ru/performer/pyotr-laul/) |
