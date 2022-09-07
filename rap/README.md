@@ -1,6 +1,6 @@
 | # | Фотография | Пол | Борода | Очки | Наличие высшего образования | Источник данных о ВО | Источник фото |
 |---|---|---|---|---|---|---|---|
-| 1 |![](/2_BIG.jpeg) | M | Нет | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/The_Notorious_B.I.G.) | [Ссылка](https://www.listal.com/viewimage/5597751) | 
+| 1 |![](rap/2_BIG.jpeg) | M | Нет | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/The_Notorious_B.I.G.) | [Ссылка](https://www.listal.com/viewimage/5597751) | 
 | 2 |![](/1_Eminem.png) | M | Нет | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/Eminem) | [Ссылка](https://123ru.net/english/175464495/)|  
 | 3 |![](/3_JayZ.jpg) | M | Нет | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/Jay-Z) | [Ссылка](https://www.behance.net/gallery/14695927/Photorealism-llustrations/modules/101238173) | 
 | 4 |![](/4_Nas.jpeg) | M | Нет | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/Nas) | [Ссылка](https://www.gettyimages.nl/fotos/nasty-nas?family=editorial&page=2&phrase=nasty%20nas&sort=mostpopular) | 
