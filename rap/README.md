@@ -27,9 +27,9 @@
 | 25 |![](/rap/25_mac_miller.jpeg) | M | Да | Нет | Да | [Ссылка](https://en.wikipedia.org/wiki/Mac_Miller) | [Ссылка](https://thissongissick.com/post/mac-miller-what-made-me-this-way/) | 
 | 26 |![](/rap/26_bob.jpeg) | M | Да | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/B.o.B) | [Ссылка](https://www.justjared.com/2016/01/27/rapper-b-o-b-thinks-the-world-is-flat-tries-to-prove-it/) | 
 | 27 |![](/rap/27_tech_nine.jpeg) | M | Да | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/Tech_N9ne) | [Ссылка](https://www.discogs.com/it/artist/183380-Tech-N9ne?type=Credits&subtype=Writing-Arrangement&filter_anv=0) | 
-| 28 |![](/rap/28_timati.jpeg) | M | Нет | Нет | Нет | [Ссылка](https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BC%D0%B0%D1%82%D0%B8) | [Ссылка](https://radio.mirtesen.ru/blog/43849915267/Timati-prokatilsya-na-syorfe-v-halate-i-s-chashkoy-kofe) | 
-| 29 |![](/rap/29_basta.jpeg) | M | Нет | Нет | Нет | [Ссылка](https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%81%D1%82%D0%B0_(%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%82)) | [Ссылка](https://newsmuz.com/news/basta?page=1) | 
-| 30 |![](/rap/30_guf.jpeg) | M | Да | Нет | Нет | [Ссылка](https://ru.wikipedia.org/wiki/%D0%93%D1%83%D1%84) | [Ссылка](https://ru.pinterest.com/pin/607211962256728974/) | 
+| 28 |![](/rap/28_timati.jpeg) | M | Да | Нет | Нет | [Ссылка](https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BC%D0%B0%D1%82%D0%B8) | [Ссылка](https://radio.mirtesen.ru/blog/43849915267/Timati-prokatilsya-na-syorfe-v-halate-i-s-chashkoy-kofe) | 
+| 29 |![](/rap/29_basta.jpeg) | M | Да | Нет | Нет | [Ссылка](https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%81%D1%82%D0%B0_(%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%82)) | [Ссылка](https://newsmuz.com/news/basta?page=1) | 
+| 30 |![](/rap/30_guf.jpeg) | M | Нет | Нет | Нет | [Ссылка](https://ru.wikipedia.org/wiki/%D0%93%D1%83%D1%84) | [Ссылка](https://ru.pinterest.com/pin/607211962256728974/) | 
 | 31 |![](/rap/31_lone.jpeg) | M | Да | Нет | Да | [Ссылка](https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%BE%D0%B7%D0%B8%D1%8F,_%D0%9B%D0%B5%D0%B2%D0%B0%D0%BD_%D0%95%D0%BC%D0%B7%D0%B0%D1%80%D0%BE%D0%B2%D0%B8%D1%87) | [Ссылка](https://e-kazan.ru/news/show/39495) | 
 | 32 |![](/rap/32_geegun.jpeg) | M | Да | Да | Да | [Ссылка](https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B8%D0%B3%D0%B0%D0%BD) | [Ссылка](https://super.ru/a/timati_geegan) | 
 | 33 |![](/rap/33_kristina_si.jpeg) | Ж | Нет | Нет | Да | [Ссылка](https://ru.wikipedia.org/wiki/Kristina_Si) | [Ссылка](https://biografii.net/znamenitosti/kristina-si.html) | 
