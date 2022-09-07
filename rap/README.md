@@ -44,17 +44,17 @@
 | 42 |![](/rap/42_morgen.png) | M | Нет | Нет | Нет | [Ссылка](https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D0%B3%D0%B5%D0%BD%D1%88%D1%82%D0%B5%D1%80%D0%BD) | [Ссылка](https://schlock.ru/basta-ne-vidit-smysla-borotsya-s-tvorchestvom-morgenshterna.html) | 
 | 43 |![](/rap/43_samka.jpeg) | M | Нет | Нет | Нет | [Ссылка](https://24smi.org/celebrity/104050-instasamka.html) | [Ссылка](https://www.novochag.ru/stars/zvezdnyy-fakt/iz-mnogodetnoy-semi-brosila-uchebu-v-shkole-7-faktov-ob-instasamke/) | 
 | 44 |![](/rap/44_feduk.jpeg) | M | Нет | Нет | Нет | [Ссылка](https://uznayvse.ru/znamenitosti/biografiya-reper-feduk.html) | [Ссылка](http://m.kino-teatr.ru/kino/acter/star/486561/foto/944422/) | 
-| 45 |![](/rap/45_pharaoh) | M | Нет | Нет | Да | [Ссылка](https://ru.wikipedia.org/wiki/Pharaoh) | [Ссылка](https://ru.pinterest.com/pin/235876099222411051/) | 
+| 45 |![](/rap/45_pharaoh.jpeg) | M | Нет | Нет | Да | [Ссылка](https://ru.wikipedia.org/wiki/Pharaoh) | [Ссылка](https://ru.pinterest.com/pin/235876099222411051/) | 
 | 46 |![](/rap/46_loc_dog.jpeg) | M | Нет | Нет | Да | [Ссылка](https://24smi.org/celebrity/32302-lok-dog.html) | [Ссылка](https://tntmusic.ru/3584-dotyanutsya-dushoi-do-kosmosa-novyi-trek-loc-dog-uzhe-v-seti/) | 
-| 47 |![](/rap/47_eldjey) | M | Нет | Нет | Нет | [Ссылка](https://svpressa.ru/persons/eldzhey-aleksey-uzenyuk/) | [Ссылка](https://mobillegends.net/garaga/%D1%8D%D0%BB%D0%B4%D0%B6%D0%B5%D0%B9-%D0%BD%D0%B0%D0%BC%D0%B5%D0%BA%D0%BD%D1%83%D0%BB-%D0%BD%D0%B0-%D1%80%D0%B0%D1%81%D1%81%D1%82%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81-%D0%B0%D0%BD%D0%B0%D1%81) | 
+| 47 |![](/rap/47_eldjey.jpeg) | M | Нет | Нет | Нет | [Ссылка](https://svpressa.ru/persons/eldzhey-aleksey-uzenyuk/) | [Ссылка](https://mobillegends.net/garaga/%D1%8D%D0%BB%D0%B4%D0%B6%D0%B5%D0%B9-%D0%BD%D0%B0%D0%BC%D0%B5%D0%BA%D0%BD%D1%83%D0%BB-%D0%BD%D0%B0-%D1%80%D0%B0%D1%81%D1%81%D1%82%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81-%D0%B0%D0%BD%D0%B0%D1%81) | 
 | 48 |![](/rap/48_21savage.jpeg) | M | Нет | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/21_Savage) | [Ссылка](https://hiphopun.com/entertainment/gun-found-in-21-savage-car/) | 
 | 49 |![](/rap/49_future.jpeg) | M | Да | Да | Нет | [Ссылка](https://en.wikipedia.org/wiki/Future_(rapper)) | [Ссылка](https://ru.pinterest.com/pin/691795192747091199/) | 
-| 50 |![](/rap/50_Jack_Harlow) | M | Нет | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/Jack_Harlow) | [Ссылка](https://www.15minutenews.com/article/185865778/watch-jack-harlows-new-whats-poppin-video-f-dababy-tory-lanez-and-lil-wayne/) | 
+| 50 |![](/rap/50_Jack_Harlow.jpeg) | M | Нет | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/Jack_Harlow) | [Ссылка](https://www.15minutenews.com/article/185865778/watch-jack-harlows-new-whats-poppin-video-f-dababy-tory-lanez-and-lil-wayne/) | 
 | 51 |![](/rap/51_busta_rhymes.jpeg) | M | Нет | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/Busta_Rhymes) | [Ссылка](https://staging1.justjared.com/2020/10/23/busta-rhymes-shows-off-his-abs-after-an-amazing-body-transformation-see-before-after/) | 
 | 52 |![](/rap/52_method.jpeg) | M | Да | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/Method_Man) | [Ссылка](https://www.fandango.com/people/method-man-456506/photos?photoid=36302) | 
 | 53 |![](/rap/53_gza.jpeg) | M | Нет | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/GZA) | [Ссылка](https://apeconcerts.com/events/gza/) | 
 | 54 |![](/rap/54_boosie_badazz.jpg) | M | Нет | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/Boosie_Badazz) | [Ссылка](https://thesource.com/2021/07/02/boosie-badazz-offers-take-on-why-lil-reese-has-yet-to-leave-chicago/) | 
-| 55 |![](/rap/55_ludacris) | M | Нет | Нет | Да | [Ссылка](https://en.wikipedia.org/wiki/Ludacris) | [Ссылка](https://www.startfilm.ru/person/7406/list/photo/) | 
+| 55 |![](/rap/55_ludacris.jpeg) | M | Нет | Нет | Да | [Ссылка](https://en.wikipedia.org/wiki/Ludacris) | [Ссылка](https://www.startfilm.ru/person/7406/list/photo/) | 
 | 56 |![](/rap/56_djKhaleed.jpeg) | M | Да | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/DJ_Khaled) | [Ссылка](https://beforewegoblog.com/music-monday-all-i-do-is-win-by-dj-khaled/?shared=email&msg=fail) | 
 | 57 |![](/rap/57_face.jpeg) | M | Нет | Нет | Нет | [Ссылка](https://ru.wikipedia.org/wiki/Face) | [Ссылка](https://vnnews.ru/rossiya-na-revolyucionnoy-volne/?from=feed) | 
 | 58 |![](/rap/58_scrip.jpeg) | M | Нет | Нет | Нет | [Ссылка](https://uznayvse.ru/znamenitosti/biografiya-skriptonit.html) | [Ссылка](https://zonakz.net/2021/12/07/eksperty-kak-enpf-podstavil-tokaeva-kazaxstancam-budet-interesnej-poluchat-seruyu-zarplatu-eksperty-o-posledstviyax-resheniya-enpf-tyomnaya-storona-dolevogo-stroitelstva-kak-vyvesti-zastrojshhiko/) | 
@@ -83,10 +83,9 @@
 | 81 |![](/rap/81_remy_ma.webp) | M | Нет | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/Remy_Ma) | [Ссылка](https://chimpymail.com/ar/tag/here/) | 
 | 82 |![](/rap/82_iggy_azalia.jpeg) | M | Нет | Нет | Да | [Ссылка](https://en.wikipedia.org/wiki/Iggy_Azalea) | [Ссылка](http://almode.ru/stars/11319-iggi-azalija-62-foto.html) | 
 | 83 |![](/rap/83_ciara.jpeg) | M | Нет | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/Ciara) | [Ссылка](http://almode.ru/stars/29980-siara-66-foto.html) | 
-| 84 |![](/rap/84_tierra_whack) | M | Нет | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/Tierra_Whack) | [Ссылка](https://www.thebackpackerz.com/heavy-rotation-230/amp/) | 
+| 84 |![](/rap/84_tierra_whack.jpeg) | M | Нет | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/Tierra_Whack) | [Ссылка](https://www.thebackpackerz.com/heavy-rotation-230/amp/) | 
 | 85 |![](/rap/85_fergie.jpeg) | M | Нет | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/Fergie_(singer)) | [Ссылка](https://www.peoples.ru/art/music/hip-hop/stacy_ferguson/fergie_201205191228402.shtml) | 
-| 86 |![](/rap/86_lady_leshurr) | M | Нет | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/Lady_Leshurr) | [Ссылка](https://www.kinocritik.ru/name/224849/images
-) | 
+| 86 |![](/rap/86_lady_leshurr.jpeg) | M | Нет | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/Lady_Leshurr) | [Ссылка](https://www.kinocritik.ru/name/224849/images) | 
 | 87 |![](/rap/87_kelis.jpg) | M | Нет | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/Kelis) | [Ссылка](https://www.look.com.ua/download/268717/640x960/) | 
 | 88 |![](/rap/88_angel_haze.jpeg) | M | Нет | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/Angel_Haze) | [Ссылка](https://wallsdesk.com/angel-haze-81602/angel-haze-high-definition/) | 
 | 89 |![](/rap/89_aiza.jpeg) | M | Нет | Нет | Да | [Ссылка](https://ru.wikipedia.org/wiki/%D0%90%D0%B9,_%D0%90%D0%B9%D0%B7%D0%B0-%D0%9B%D0%B8%D0%BB%D1%83%D0%BD%D0%B0_%D0%A5%D0%B0%D0%BC%D0%B7%D0%B0%D1%82%D0%BE%D0%B2%D0%BD%D0%B0) | [Ссылка](https://sputnik-georgia.ru/20210623/Obmanul-vsekh-svoikh-bab---Ayza-Dolmatova-obvinila-Gufu-i-rasplakalas-na-kameru-252100998.html) | 
@@ -98,7 +97,7 @@
 | 95 |![](/rap/95_khalib.jpeg) | M | Да | Нет | Да | [Ссылка](https://ru.wikipedia.org/wiki/Jah_Khalib) | [Ссылка](https://afisha.yandex.ru/artist/jah-khalib?city=saratov) | 
 | 96 |![](/rap/96_mc_doni.jpeg) | M | Да | Нет | Нет | [Ссылка](https://ru.wikipedia.org/wiki/Doni_(%D1%80%D1%8D%D0%BF%D0%B5%D1%80)) | [Ссылка](https://tiktok-pesni.ru/artist/1291529-mc-doni-vse-pesni) | 
 | 97 |![](/rap/97_logic.jpeg) | M | Нет | Да | Нет | [Ссылка](https://en.wikipedia.org/wiki/Logic_(rapper)) | [Ссылка](https://www.rapertuar.com/global-rap/logic-oldukca-sik-bir-yol-ile-muzige-geri-dondugunu-duyurdu/) | 
-| 98 |![](/rap/98_big_sean) | M | Нет | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/Big_Sean) | [Ссылка](http://m.4words.ru/photo/artist/3574) | 
+| 98 |![](/rap/98_big_sean.jpg) | M | Нет | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/Big_Sean) | [Ссылка](http://m.4words.ru/photo/artist/3574) | 
 | 99 |![](/rap/99_montana.jpeg) | M | Да | Нет | Нет | [Ссылка](https://en.wikipedia.org/wiki/French_Montana) | [Ссылка](https://celebwiki.org/french-montana-wiki-bio-net-worth-nationality-wife-girlfriend/) | 
 | 100 |![](/rap/100_tatarka.jpeg) | M | Нет | Нет | Нет | [Ссылка](https://ru.wikipedia.org/wiki/Tatarka) | [Ссылка](https://uchastniki.com/bloggers/tatarka.html) |
 
