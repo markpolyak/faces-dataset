@@ -27,71 +27,71 @@
 | 21 |![](2020-David-Campbell-Detail.jpg )  | М  | Да  |  Нет | Да  | [Ссылка](https://www.sydneysymphony.com/musicians/david-campbell)  | [Ссылка](https://www.sydneysymphony.com/musicians/david-campbell)   |
 | 22 | ![](2020-David-Elton-Detail.jpg ) | М  | Нет  | Нет  | Да  |  [Ссылка](https://www.davidelton.com.au/) |  [Ссылка](https://www.davidelton.com.au/)  |
 | 23 |![](2020-David-Wickham-Detail.jpg )  | М  | Нет  |  Нет | Да  | [Ссылка](https://www.sydneysymphony.com/musicians/david-wickham)  | [Ссылка](https://www.sydneysymphony.com/musicians/david-wickham)   |
-| 24 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 25 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
-| 26 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 27 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
-| 28 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 29 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
-| 30 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 31 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
-| 32 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 33 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
-| 34 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 35 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
-| 36 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 37 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
-| 38 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 39 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
-| 40 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 41 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
-| 42 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 43 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
-| 44 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 45 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
-| 46 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 47 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
-| 48 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 49 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
-| 50 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 51 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
-| 52 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 53 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
-| 54 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 55 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
-| 56 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 57 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
-| 58 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 59 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
-| 60 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 61 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
-| 62 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 63 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
-| 64 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 65 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
-| 66 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 67 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
-| 68 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 69 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
-| 70 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 71 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
-| 72 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 73 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
-| 74 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 75 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
-| 76 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 77 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
-| 78 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 79 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
-| 80 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 81 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
-| 82 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 83 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
-| 84 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 85 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
-| 86 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 87 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
-| 88 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 89 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
-| 90 | ![]( ) | М  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
-| 91 |![]( )  | Ж  | Нет  |  Нет | Да  | [Ссылка]()  | [Ссылка]()   |
+| 24 | ![](2020-Diana-Doherty-Detail.jpg ) | Ж  | Нет  | Нет  | Да  |  [Ссылка](https://www.abc.net.au/classic/programs/legends/legends-diana-doherty/14067442) |  [Ссылка](https://www.abc.net.au/classic/programs/legends/legends-diana-doherty/14067442)  |
+| 25 |![](2020-Elizabeth-Neville-Detail.jpg )  | Ж  | Нет  |  Нет | Да  | [Ссылка](https://www.sydneysymphony.com/musicians/elizabeth-neville)  | [Ссылка](https://www.sydneysymphony.com/musicians/elizabeth-neville)   |
+| 26 | ![](2020-Emily-Long-Detail.jpg ) | Ж  | Нет  | Нет  | Да  |  [Ссылка](https://www.sydneysymphony.com/musicians/emily-long) |  [Ссылка](https://www.sydneysymphony.com/musicians/emily-long)  |
+| 27 |![](2020-Emma-Hayes-Detail.jpg )  | Ж  | Нет  |  Нет | Да  | [Ссылка](https://www.sydneysymphony.com/musicians/emma-hayes)  | [Ссылка](https://www.sydneysymphony.com/musicians/emma-hayes)   |
+| 28 | ![](2020-Emma-Jezek-Detail.jpg ) | Ж  | Нет  | Нет  | Да  |  [Ссылка](https://fourwinds.com.au/member/emma-jezek/) |  [Ссылка](https://fourwinds.com.au/member/emma-jezek/)  |
+| 29 |![](2020-Emma-Sholl-Detail.jpg )  | Ж  | Нет  |  Нет | Да  | [Ссылка](https://the-riotact.com/emma-sholl-promises-flute-fireworks-with-cso/555960)  | [Ссылка](https://the-riotact.com/emma-sholl-promises-flute-fireworks-with-cso/555960)   |
+| 30 | ![](2020-Euan-Harvey-Detail.jpg ) | М  | Нет  | Нет  | Да  |  [Ссылка](https://www.sydneysymphony.com/musicians/euan-harvey) |  [Ссылка](https://www.sydneysymphony.com/musicians/euan-harvey)  |
+| 31 |![](2020-Felicity-Tsai-Detail.jpg )  | Ж  | Нет  |  Нет | Да  | [Ссылка](https://www.sydneysymphony.com/musicians/felicity-tsai)  | [Ссылка](https://www.sydneysymphony.com/musicians/felicity-tsai)   |
+| 32 | ![](2020-Fenella-Gill-Detail.jpg ) | Ж  | Нет  | Нет  | Да  |  [Ссылка](https://www.sydneysymphony.com/musicians/fenella-gill) |  [Ссылка](https://www.sydneysymphony.com/musicians/fenella-gill)  |
+| 33 |![](2020-Fiona-McNamara-Detail.jpg )  | Ж  | Нет  |  Нет | Да  | [Ссылка](https://www.sydneysymphony.com/musicians/fiona-mcnamara)  | [Ссылка](https://www.sydneysymphony.com/musicians/fiona-mcnamara)   |
+| 34 | ![](2020-Francesco-Celata-Detail.jpg ) | М  | Нет  | Нет  | Да  |  [Ссылка](https://www.australianworldorchestra.com.au/742-francesco-frank-celata/) |  [Ссылка](https://www.australianworldorchestra.com.au/742-francesco-frank-celata/)  |
+| 35 |![]( 2020-Geoffery-OReilly-Detail.jpg)  | М  | Нет  |  Нет | Да  | [Ссылка](https://www.sydneysymphony.com/musicians/geoffrey-oreilly)  | [Ссылка](https://www.sydneysymphony.com/musicians/geoffrey-oreilly)   |
+| 36 | ![](2020-Georges-Lentz-Detail.jpg ) | М  | Нет  | Да  | Да  |  [Ссылка](https://www.sydneysymphony.com/musicians/georges-lentz) |  [Ссылка](https://www.sydneysymphony.com/musicians/georges-lentz)  |
+| 37 |![](2020-Graham-Hennings-Detail.jpg )  | М  | Да  |  Да | Да  | [Ссылка](https://www.sydneysymphony.com/musicians/graham-hennings)  | [Ссылка](https://www.sydneysymphony.com/musicians/graham-hennings)   |
+| 38 | ![](2020-Harry-Bennetts-Detail.jpg ) | М  | Да  | Да  | Да  |  [Ссылка](https://www.australianworldorchestra.com.au/7299-harry-bennetts/) |  [Ссылка](https://www.australianworldorchestra.com.au/7299-harry-bennetts/)  |
+| 39 |![](2020-Jaan-Pallandi-Detail.jpg )  | М  | Нет  |  Нет | Да  | [Ссылка](https://tarsuschambercollective.com/jaan)  | [Ссылка](https://tarsuschambercollective.com/jaan)   |
+| 40 | ![](2020-Jane-Hazelwood-Detail.jpg ) | Ж  | Нет  | Нет  | Да  |  [Ссылка](https://www.sydneysymphony.com/musicians/jane-hazelwood) |  [Ссылка](https://www.sydneysymphony.com/musicians/jane-hazelwood)  |
+| 41 |![]( 2020-Jennifer-Booth-Detail.jpg)  | Ж  | Нет  |  Нет | Да  | [Ссылка](https://www.sydneysymphony.com/musicians/jenny-booth)  | [Ссылка](https://www.sydneysymphony.com/musicians/jenny-booth)   |
+| 42 | ![](2020-Joshua-Batty-Detail.jpg ) | М  | Да  | Нет  | Да  |  [Ссылка](https://www.sydneysymphony.com/backstage-news/5-questions-with-joshua-batty) |  [Ссылка](https://www.sydneysymphony.com/backstage-news/5-questions-with-joshua-batty)  |
+| 43 |![]( 2020-Justin-Williams-Detail.jpg)  | М  | Нет  |  Нет | Да  | [Ссылка](https://www.sydneysymphony.com/musicians/justin-williams)  | [Ссылка](https://www.sydneysymphony.com/musicians/justin-williams)   |
+| 44 | ![](2020-Justine-Marsden-Detail.jpg ) | Ж  | Нет  | Нет  | Да  |  [Ссылка](https://www.sydneysymphony.com/musicians/justine-marsden) |  [Ссылка](https://www.sydneysymphony.com/musicians/justine-marsden)  |
+| 45 |![](2020-Kees-Boersma-Detail.jpg )  | М  | Нет  |  Нет | Да  | [Ссылка](https://www.australianworldorchestra.com.au/715-kees-boersma/)  | [Ссылка](https://www.australianworldorchestra.com.au/715-kees-boersma/)   |
+| 46 | ![](2020-Kirsty-Hilton-Detail.jpg ) | Ж  | Нет  | Нет  | Да  |  [Ссылка](https://www.australianworldorchestra.com.au/995-kirsty-hilton/) |  [Ссылка](https://www.australianworldorchestra.com.au/995-kirsty-hilton/)  |
+| 47 |![]( 2020-Kristy-Conrau-Detail.jpg)  | Ж  | Нет  |  Нет | Да  | [Ссылка](https://www.sydneysymphony.com/musicians/kristy-conrau)  | [Ссылка](https://www.sydneysymphony.com/musicians/kristy-conrau)   |
+| 48 | ![](2020-Leah-Lynn-Detail.jpg ) | Ж  | Нет  | Нет  | Да  |  [Ссылка](https://www.australianworldorchestra.com.au/1101-leah-lynn/) |  [Ссылка](https://www.australianworldorchestra.com.au/1101-leah-lynn/)  |
+| 49 |![](2020-Leone-Ziegler-Detail.jpg )  | Ж  | Нет  |  Нет | Да  | [Ссылка](https://www.sydneysymphony.com/musicians/l%C3%A9one-ziegler)  | [Ссылка](https://www.sydneysymphony.com/musicians/l%C3%A9one-ziegler)   |
+| 50 | ![](2020-Leonid-Volovelsky-Detail.jpg ) | М  | Нет  | Нет  | Да  |  [Ссылка](https://www.sydneysymphony.com/musicians/leonid-volovelsky) |  [Ссылка](https://www.sydneysymphony.com/musicians/leonid-volovelsky)  |
+| 51 |![](2020-Maja-Verunica-Detail.jpg )  | Ж  | Нет  |  Нет | Да  | [Ссылка](https://www.sydneysymphony.com/musicians/maja-verunica)  | [Ссылка](https://www.sydneysymphony.com/musicians/maja-verunica)   |
+| 52 | ![](2020-Marina-Marsden-Detail.jpg) | Ж  | Нет  | Нет  | Да  |  [Ссылка](https://www.sydneysymphony.com/musicians/marina-marsden) |  [Ссылка](https://www.sydneysymphony.com/musicians/marina-marsden)  |
+| 53 |![](2020-Mark-Robinson-Detail.jpg )  | М  | Нет  |  Нет | Да  | [Ссылка](https://www.sydneysymphony.com/musicians/mark-robinson)  | [Ссылка](https://www.sydneysymphony.com/musicians/mark-robinson)   |
+| 54 | ![](2020-Marnie-Sebire-Detail.jpg ) | Ж  | Нет  | Нет  | Да  |  [Ссылка](https://www.australianworldorchestra.com.au/1377-marnie-sebire/) |  [Ссылка](https://www.australianworldorchestra.com.au/1377-marnie-sebire/)  |
+| 55 |![](2020-Matthew-Wilkie-Detail.jpg )  | М  | Нет  |  Нет | Да  | [Ссылка](https://www.bach-cantatas.com/Bio/Wilkie-Matthew.htm)  | [Ссылка](https://www.bach-cantatas.com/Bio/Wilkie-Matthew.htm)   |
+| 56 | ![](2020-Monique-Irik-Detail.jpg ) | Ж  | Нет  | Нет  | Да  |  [Ссылка](https://www.sydneysymphony.com/musicians/monique-irik) |  [Ссылка](https://www.sydneysymphony.com/musicians/monique-irik)  |
+| 57 |![](2020-Nick-Byrne-Detail.jpg )  | М  | Да  |  Нет | Да  | [Ссылка](https://www.sydneysymphony.com/musicians/nick-byrne)  | [Ссылка](https://www.sydneysymphony.com/musicians/nick-byrne)   |
+| 58 | ![]( 2020-Nicole-Masters-Detail.jpg) | Ж  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
+| 59 |![](2020-Nicole-Masters-Detail.jpg)  | Ж  | Нет  |  Нет | Да  | [Ссылка](https://www.sydneysymphony.com/musicians/nicole-masters)  | [Ссылка](https://www.sydneysymphony.com/musicians/nicole-masters)   |
+| 60 | ![](2020-Rachel-Silver-Detail.jpg ) | Ж  | Нет  | Нет  | Да  |  [Ссылка](https://www.australianworldorchestra.com.au/1411-rachel-silver/) |  [Ссылка](https://www.australianworldorchestra.com.au/1411-rachel-silver/)  |
+| 61 |![](2020-Rebecca-Gill-Detail.jpg )  | Ж  | Нет  |  Да | Да  | [Ссылка](https://www.sydneysymphony.com/musicians/rebecca-gill)  | [Ссылка](https://www.sydneysymphony.com/musicians/rebecca-gill)   |
+| 62 | ![]( 2020-Rebecca-Lagos-Detail.jpg) | Ж  | Нет  | Нет  | Да  |  [Ссылка](https://www.sydneysymphony.com/musicians/rebecca-lagos) |  [Ссылка](https://www.sydneysymphony.com/musicians/rebecca-lagos)  |
+| 63 |![](2020-Richard-Lynn-Detail.jpg )  | М  | Нет  |  Нет | Да  | [Ссылка](https://www.sydneysymphony.com/musicians/richard-lynn)  | [Ссылка](https://www.sydneysymphony.com/musicians/richard-lynn)   |
+| 64 | ![](2020-Ronald-Prussing-Detail.jpg ) | М  | Нет  | Нет  | Да  |  [Ссылка](https://www.sydneysymphony.com/musicians/ronald-prussing) |  [Ссылка](https://www.sydneysymphony.com/musicians/ronald-prussing)  |
+| 65 |![](2020-Rosemary-Curtin-Detail.jpg )  | Ж  | Нет  |  Нет | Да  | [Ссылка](https://www.australianworldorchestra.com.au/819-rosemary-curtin/)  | [Ссылка](https://www.australianworldorchestra.com.au/819-rosemary-curtin/)   |
+| 66 | ![](2020-Sandro-Constantino-Detail.jpg ) | М  | Нет  | Да  | Да  |  [Ссылка](https://www.sydneysymphony.com/musicians/sandro-costantino) |  [Ссылка](https://www.sydneysymphony.com/musicians/sandro-costantino)  |
+| 67 |![](2020-Scott-Kinmont-Detail.jpg )  | М  | Нет  |  Да | Да  | [Ссылка](https://fourwinds.com.au/member/scott-kinmont/)  | [Ссылка](https://fourwinds.com.au/member/scott-kinmont/)   |
+| 68 | ![]( 2020-Shefali-Pryor-Detail.jpg) | Ж  | Нет  | Нет  | Да  |  [Ссылка](https://www.australianworldorchestra.com.au/1333-shefali-pryor/) |  [Ссылка](https://www.australianworldorchestra.com.au/1333-shefali-pryor/)  |
+| 69 |![](2020-Shuti-Huang-Detail.jpg )  | М  | Нет  |  Да | Да  | [Ссылка](https://www.sydneysymphony.com/musicians/shuti-huang)  | [Ссылка](https://www.sydneysymphony.com/musicians/shuti-huang)   |
+| 70 | ![](2020-Sophie-Cole-Detail.jpg ) | Ж  | Нет  | Да  | Да  |  [Ссылка](https://www.sydneysymphony.com/musicians/sophie-cole) |  [Ссылка](https://www.sydneysymphony.com/musicians/sophie-cole)  |
+| 71 |![](2020-Steve-Larson-Detail.jpg )  | М  | Нет  |  Нет | Да  | [Ссылка](https://www.sydneysymphony.com/musicians/steven-larson)  | [Ссылка](https://www.sydneysymphony.com/musicians/steven-larson)   |
+| 72 | ![](2020-Steve-Rosse-Detail.jpg ) | М  | Нет  | Нет  | Да  |  [Ссылка](https://www.sydneysymphony.com/musicians/steve-ross%C3%A9) |  [Ссылка](https://www.sydneysymphony.com/musicians/steve-ross%C3%A9)  |
+| 73 |![](2020-Stuart-Johnson-Detail.jpg )  | М  | Нет  |  Нет | Да  | [Ссылка](https://fourwinds.com.au/member/stuart-johnson/)  | [Ссылка](https://fourwinds.com.au/member/stuart-johnson/)   |
+| 74 | ![]( 2020-Sun-Yi-Detail.jpg) | М  | Нет  | Да  | Да  |  [Ссылка](https://www.sydneysymphony.com/musicians/sun-yi) |  [Ссылка](https://www.sydneysymphony.com/musicians/sun-yi)  |
+| 75 |![]( 2020-Timothy-Constable-Detail.jpg)  | М  | Нет  |  Нет | Да  | [Ссылка](https://www.sydneysymphony.com/musicians/timothy-constable)  | [Ссылка](https://www.sydneysymphony.com/musicians/timothy-constable)   |
+| 76 | ![]( 2020-Timothy-Nankervis-Detail.jpg) | М  | Нет  | Нет  | Да  |  [Ссылка](https://www.sydneysymphony.com/musicians/timothy-nankervis) |  [Ссылка](https://www.sydneysymphony.com/musicians/timothy-nankervis)  |
+| 77 |![]( 2020-Tobias-Breider-Detail.jpg)  | М  | Нет  |  Нет | Да  | [Ссылка](https://www.sydneysymphony.com/musicians/tobias-breider)  | [Ссылка](https://www.sydneysymphony.com/musicians/tobias-breider)   |
+| 78 | ![](2020-Todd-Gibson-Cornish-Detail.jpg ) | М  | Нет  | Нет  | Да  |  [Ссылка](https://www.sydneysymphony.com/musicians/todd-gibson-cornish) |  [Ссылка](https://www.sydneysymphony.com/musicians/todd-gibson-cornish)  |
+| 79 |![]( 2020-Victoria-Bihun-Detail.jpg)  | Ж  | Нет  |  Да | Да  | [Ссылка](https://www.bordermail.com.au/story/5515010/border-music-camp-providing-a-spark-for-future-musicians/)  | [Ссылка](https://www.bordermail.com.au/story/5515010/border-music-camp-providing-a-spark-for-future-musicians/)   |
+| 80 | ![](2020-Wendy-Kong-Detail.jpg ) | Ж  | Нет  | Нет  | Да  |  [Ссылка](https://sydneyeisteddfod.com.au/articles/alumni-wendy-kong-joins-the-sydney-symphony-orchestra/) |  [Ссылка](https://sydneyeisteddfod.com.au/articles/alumni-wendy-kong-joins-the-sydney-symphony-orchestra/)  |
+| 81 |![](duitmanelayna.jpg )  | Ж  | Нет  |  Нет | Да  | [Ссылка](https://www.clevelandorchestra.com/discover/meet-the-musicians/second-violins/Duitman-Elayna/)  | [Ссылка](https://www.clevelandorchestra.com/discover/meet-the-musicians/second-violins/Duitman-Elayna/)   |
+| 82 | ![]( finkmarykay.jpg) | Ж  | Нет  | Нет  | Да  |  [Ссылка](https://www.clevelandorchestra.com/discover/meet-the-musicians/flutes/fink-mary-kay/) |  [Ссылка](https://www.clevelandorchestra.com/discover/meet-the-musicians/flutes/fink-mary-kay/)  |
+| 83 |![](johnclouser.jpg )  | М  | Да  |  Нет | Да  | [Ссылка](https://www.clevelandorchestra.com/discover/meet-the-musicians/bassoons/clouser-john/)  | [Ссылка](https://www.clevelandorchestra.com/discover/meet-the-musicians/bassoons/clouser-john/)   |
+| 84 | ![]( missitsioana.jpg) | Ж  | Нет  | Нет  | Да  |  [Ссылка](https://www.clevelandorchestra.com/discover/meet-the-musicians/second-violins/Missits-Ioana/) |  [Ссылка](https://www.clevelandorchestra.com/discover/meet-the-musicians/second-violins/Missits-Ioana/)  |
+| 85 |![](parkchul.jpg )  | Ж  | Нет  |  Нет | Да  | [Ссылка](https://www.clevelandorchestra.com/discover/meet-the-musicians/first-violins/Park-chul-in/)  | [Ссылка](https://www.clevelandorchestra.com/discover/meet-the-musicians/first-violins/Park-chul-in/)   |
+| 86 | ![]( paulyancich.jpg) | М  | Нет  | Да  | Да  |  [Ссылка](https://clevelandclassical.com/tag/paul-yancich/) |  [Ссылка](https://clevelandclassical.com/tag/paul-yancich/)  |
+| 87 |![](yuanyu.jpg )  | Ж  | Нет  |  Нет | Да  | [Ссылка](https://github.com/markpolyak/faces-dataset/blob/symphony2_branch/symphony2/yuanyu.jpg)  | [Ссылка](https://github.com/markpolyak/faces-dataset/blob/symphony2_branch/symphony2/yuanyu.jpg)   |
+| 88 | ![](zadinskyderek.jpg ) | М  | Да  | Да  | Да  |  [Ссылка](https://www.clevelandorchestra.com/discover/meet-the-musicians/basses/zadinsky-derek/) |  [Ссылка](https://www.clevelandorchestra.com/discover/meet-the-musicians/basses/zadinsky-derek/)  |
+| 89 |![]( zehngutjeffrey.jpg)  | М  | Нет  |  Нет | Да  | [Ссылка](https://www.clevelandorchestra.com/discover/meet-the-musicians/second-violins/Zehngut-Jeffrey/)  | [Ссылка](https://www.clevelandorchestra.com/discover/meet-the-musicians/second-violins/Zehngut-Jeffrey/)   |
+| 90 | ![]( zhan.jpg) | М  | Нет  | Нет  | Да  |  [Ссылка](https://github.com/markpolyak/faces-dataset/blob/symphony2_branch/symphony2/zhan.jpg) |  [Ссылка](https://github.com/markpolyak/faces-dataset/blob/symphony2_branch/symphony2/zhan.jpg)  |
+| 91 |![]( zolotoamy.jpg)  | Ж  | Нет  |  Нет | Да  | [Ссылка](https://www.clevelandorchestra.com/discover/meet-the-musicians/clarinets/zoloto-amy/)  | [Ссылка](https://www.clevelandorchestra.com/discover/meet-the-musicians/clarinets/zoloto-amy/)   |
