@@ -61,7 +61,6 @@
 | 55 |![](2020-Matthew-Wilkie-Detail.jpg )  | М  | Нет  |  Нет | Да  | [Ссылка](https://www.bach-cantatas.com/Bio/Wilkie-Matthew.htm)  | [Ссылка](https://www.bach-cantatas.com/Bio/Wilkie-Matthew.htm)   |
 | 56 | ![](2020-Monique-Irik-Detail.jpg ) | Ж  | Нет  | Нет  | Да  |  [Ссылка](https://www.sydneysymphony.com/musicians/monique-irik) |  [Ссылка](https://www.sydneysymphony.com/musicians/monique-irik)  |
 | 57 |![](2020-Nick-Byrne-Detail.jpg )  | М  | Да  |  Нет | Да  | [Ссылка](https://www.sydneysymphony.com/musicians/nick-byrne)  | [Ссылка](https://www.sydneysymphony.com/musicians/nick-byrne)   |
-| 58 | ![]( 2020-Nicole-Masters-Detail.jpg) | Ж  | Нет  | Нет  | Да  |  [Ссылка]() |  [Ссылка]()  |
 | 59 |![](2020-Nicole-Masters-Detail.jpg)  | Ж  | Нет  |  Нет | Да  | [Ссылка](https://www.sydneysymphony.com/musicians/nicole-masters)  | [Ссылка](https://www.sydneysymphony.com/musicians/nicole-masters)   |
 | 60 | ![](2020-Rachel-Silver-Detail.jpg ) | Ж  | Нет  | Нет  | Да  |  [Ссылка](https://www.australianworldorchestra.com.au/1411-rachel-silver/) |  [Ссылка](https://www.australianworldorchestra.com.au/1411-rachel-silver/)  |
 | 61 |![](2020-Rebecca-Gill-Detail.jpg )  | Ж  | Нет  |  Да | Да  | [Ссылка](https://www.sydneysymphony.com/musicians/rebecca-gill)  | [Ссылка](https://www.sydneysymphony.com/musicians/rebecca-gill)   |
