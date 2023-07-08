@@ -2,7 +2,7 @@
 
 | # | Фотография | Пол | Борода | Очки | Наличие высшего образования | Источник данных о ВО | Источник фото |
 |---|---|---|---|---|---|---|---|
-| 0|![фото музыканта](0.jpg) |М| Да | Нет | Да | [Ссылка](https://www.facebook.com/gerard.schneider/about) | [Ссылка](https://www.facebook.com/photo.php?fbid=10155890324265589&set=pb.647095588.-2207520000.&type=3)
+| 0|![фото музыканта](0.jpg) |М| Да | Нет | Да | [Ссылка](https://www.facebook.com/gerard.schneider/about) | [Ссылка](https://www.facebook.com/photo.php?fbid=10155890324265589&set=pb.647095588.-2207520000.&type=3) |
 | 1 |![фото музыканта](1.jpg) | М | Нет | Нет | Да | [Ссылка](https://www.facebook.com/fderrey/about) | [Ссылка](https://www.facebook.com/photo?fbid=10205626148148105&set=a.1539972814348) |
 | 2|![фото музыканта](2.jpg) | М | Да | Да | Нет | [Ссылка](https://www.facebook.com/fernando.uehara/about) | [Ссылка](https://www.facebook.com/photo/?fbid=10160248821794208&set=a.451449099207) |
 | 3 |![фото музыканта](3.jpg) | Ж | Нет | Нет | Да | [Ссылка](https://www.facebook.com/anni.castrogrinstein/about) | [Ссылка](https://www.facebook.com/photo?fbid=10152286503319315&set=a.424077639314) |
