@@ -66,7 +66,7 @@
 | 61|![фото музыканта](61.jpg) |Ж| Нет | Нет | Да | [Ссылка](https://www.facebook.com/kathy.shook.12/about) | [Ссылка](https://www.facebook.com/photo.php?fbid=6985236008216382&set=pb.100001901569978.-2207520000.&type=3) |
 | 62|![фото музыканта](62.jpg) |Ж| Нет | Нет | Да | [Ссылка](https://www.facebook.com/lana.auerbach/about) | [Ссылка](https://www.facebook.com/photo.php?fbid=10224919278360795&set=pb.1580531982.-2207520000.&type=3) |
 | 63|![фото музыканта](63.jpg) |Ж| Нет | Нет | Да | [Ссылка](https://www.facebook.com/sarah.harmsworth/about) | [Ссылка](https://www.facebook.com/photo.php?fbid=2044861242199986&set=pb.100000283906921.-2207520000.&type=3) |
-| 64|![фото музыканта](64.jpg) |Ж| Нет | Нет | Да | [Ссылка](https://www.facebook.com/amanda.g.koch/about) | [Ссылка](https://www.facebook.com/photo.php?fbid=10217502992678408&set=pb.1584139761.-2207520000.&type=3) |
+| 64|![фото музыканта](64.jpg) |Ж| Нет | Да | Да | [Ссылка](https://www.facebook.com/amanda.g.koch/about) | [Ссылка](https://www.facebook.com/photo.php?fbid=10217502992678408&set=pb.1584139761.-2207520000.&type=3) |
 | 65|![фото музыканта](65.jpg) |М| Да | Да | Да | [Ссылка](https://www.facebook.com/ian.riggs.520/about) | [Ссылка](https://www.facebook.com/photo.php?fbid=10202313584900046&set=pb.1204299104.-2207520000.&type=3) |
 | 66|![фото музыканта](66.jpg) |М| Нет | Нет | Да | [Ссылка](https://www.facebook.com/tav.daly.5/about) | [Ссылка](https://www.facebook.com/photo?fbid=1973298859460123&set=a.106499832806711) |
 | 67|![фото музыканта](67.jpg) |М| Да | Да | Да | [Ссылка](https://www.facebook.com/james.donahue.796/about) | [Ссылка](https://www.facebook.com/photo.php?fbid=10107771143797423&set=pb.9215279.-2207520000.&type=3) |
