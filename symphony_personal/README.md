@@ -1,12 +1,12 @@
 # Описание фотографий
 
-| # | Фотография | Пол | Борода | Очки | Наличие высшего образования | Источник данных о ВО | Источник фото |
+| # | Фотография | Пол | Борода | Очки | Является ли музыкантом симф. оркестра | Источник данных о работе в симф. оркестре | Источник фото |
 |---|---|---|---|---|---|---|---|
 | 0|![фото музыканта](0.jpg) | М | Да | Нет | Да | [Ссылка](https://www.facebook.com/gerard.schneider/about) | [Ссылка](https://www.facebook.com/photo.php?fbid=10155890324265589&set=pb.647095588.-2207520000.&type=3) |
 | 1 |![фото музыканта](1.jpg) | М | Нет | Нет | Да | [Ссылка](https://www.facebook.com/fderrey/about) | [Ссылка](https://www.facebook.com/photo?fbid=10205626148148105&set=a.1539972814348) |
-| 2|![фото музыканта](2.jpg) | М | Да | Да | Нет | [Ссылка](https://www.facebook.com/fernando.uehara/about) | [Ссылка](https://www.facebook.com/photo/?fbid=10160248821794208&set=a.451449099207) |
+| 2|![фото музыканта](2.jpg) | М | Да | Да | Да | [Ссылка](https://www.facebook.com/fernando.uehara/about) | [Ссылка](https://www.facebook.com/photo/?fbid=10160248821794208&set=a.451449099207) |
 | 3 |![фото музыканта](3.jpg) | Ж | Нет | Нет | Да | [Ссылка](https://www.facebook.com/anni.castrogrinstein/about) | [Ссылка](https://www.facebook.com/photo?fbid=10152286503319315&set=a.424077639314) |
-| 4 |![фото музыканта](4.jpg) | М | Да | Нет | Нет | [Ссылка](https://www.facebook.com/saavedra.conductor/about) | [Ссылка](https://www.facebook.com/photo.php?fbid=2414600195303944&set=pb.100002619612309.-2207520000.&type=3) |
+| 4 |![фото музыканта](4.jpg) | М | Да | Нет |Да | [Ссылка](https://www.facebook.com/saavedra.conductor/about) | [Ссылка](https://www.facebook.com/photo.php?fbid=2414600195303944&set=pb.100002619612309.-2207520000.&type=3) |
 | 5 |![фото музыканта](5.jpg) | М | Да | Да | Да | [Ссылка](https://www.facebook.com/adriancapresi/about) | [Ссылка](https://www.facebook.com/photo.php?fbid=10226574474374086&set=pb.1413292096.-2207520000.&type=3) |
 | 6 |![фото музыканта](6.jpg) | М | Да | Нет | Да | [Ссылка](https://www.facebook.com/manu.papale.1/about) | [Ссылка](https://www.facebook.com/photo.php?fbid=10159578687953046&set=pb.578198045.-2207520000.&type=3) |
 | 7 |![фото музыканта](7.jpg) | М | Нет | Нет | Да | [Ссылка](https://www.facebook.com/lologp/about) | [Ссылка](https://www.facebook.com/photo.php?fbid=10230621524620776&set=pb.1202176786.-2207520000.&type=3) |
@@ -19,17 +19,17 @@
 | 14|![фото музыканта](14.jpg) | Ж | Нет | Нет | Да | [Ссылка](https://www.facebook.com/brianne.lugo.9/about) | [Ссылка](https://www.facebook.com/photo?fbid=10100325446953539&set=a.612159345649) |
 | 15|![фото музыканта](15.jpg) | Ж | Нет | Нет | Да | [Ссылка](https://www.facebook.com/valeriya.sholokhova/about) | [Ссылка](https://www.facebook.com/photo.php?fbid=10223384738471618&set=pb.1381350511.-2207520000.&type=3) |
 | 16|![фото музыканта](16.jpg) | Ж | Нет | Нет | Да | [Ссылка](https://www.facebook.com/susanne.burgess.9/about) | [Ссылка](https://www.facebook.com/photo?fbid=4233011032957&set=a.1308925652650) |
-| 17|![фото музыканта](17.jpg) | Ж | Нет | Нет | Нет | [Ссылка](https://www.facebook.com/yeji.pyun/about) | [Ссылка](https://www.facebook.com/photo?fbid=1031791530237443&set=a.102734079809864) |
+| 17|![фото музыканта](17.jpg) | Ж | Нет | Нет | Да | [Ссылка](https://www.facebook.com/yeji.pyun/about) | [Ссылка](https://www.facebook.com/photo?fbid=1031791530237443&set=a.102734079809864) |
 | 18|![фото музыканта](18.jpg) | Ж | Нет | Нет | Да | [Ссылка](https://www.facebook.com/kellin.hanas.90/about) | [Ссылка](https://www.facebook.com/photo.php?fbid=2073221229736009&set=pb.100011444557590.-2207520000.&type=3) |
 | 19|![фото музыканта](19.jpg) | Ж | Нет | Нет | Да | [Ссылка](https://www.facebook.com/thalia.navas/about) | [Ссылка](https://www.facebook.com/photo.php?fbid=2073221229736009&set=pb.100011444557590.-2207520000.&type=3) |
 | 20|![фото музыканта](20.jpg) | Ж | Нет | Нет | Да | [Ссылка](https://www.facebook.com/profile.php?id=100007948124801&sk=about) | [Ссылка](https://www.facebook.com/photo.php?fbid=2565245797083666&set=pb.100007948124801.-2207520000.&type=3) |
 | 21|![фото музыканта](21.jpg) | М | Да | Да | Да | [Ссылка](https://www.facebook.com/paulphilbert/about) | [Ссылка](https://www.facebook.com/photo.php?fbid=10160689527696204&set=pb.588151203.-2207520000.&type=3) |
 | 22|![фото музыканта](22.jpg) | Ж | Нет | Нет | Да | [Ссылка](https://www.facebook.com/Nimatawoyemi/about) | [Ссылка](https://www.facebook.com/photo?fbid=10215904222271176&set=a.1349795117666) |
-| 23|![фото музыканта](23.jpg) | Ж | Нет | Да | Нет | [Ссылка](https://www.facebook.com/betania.johnny/about) | [Ссылка](https://www.facebook.com/photo?fbid=1208185733365324&set=a.107160610134514) |
+| 23|![фото музыканта](23.jpg) | Ж | Нет | Да | Да | [Ссылка](https://www.facebook.com/betania.johnny/about) | [Ссылка](https://www.facebook.com/photo?fbid=1208185733365324&set=a.107160610134514) |
 | 24|![фото музыканта](24.jpg) | М | Да | Да | Да | [Ссылка](https://www.facebook.com/mekhi.gladden/about) | [Ссылка](https://www.facebook.com/photo.php?fbid=6037558566343409&set=pb.100002679762811.-2207520000.&type=3) |
 | 25|![фото музыканта](25.jpg) | Ж | Нет | Нет | Да | [Ссылка](https://www.facebook.com/morgan.jones.585/about) | [Ссылка](https://www.facebook.com/photo?fbid=10102029569389165&set=a.561161177035) |
 | 26|![фото музыканта](26.jpg) | М | Да | Да | Да | [Ссылка](https://www.facebook.com/caleb.edwards.5686/about) | [Ссылка](https://www.facebook.com/photo.php?fbid=10159832736974310&set=t.100005110981013&type=3) |
-| 27|![фото музыканта](27.jpg) | М | Нет | Нет | Нет | [Ссылка](https://www.facebook.com/alexhorton01/about) | [Ссылка](https://www.facebook.com/photo.php?fbid=10217286112407869&set=pb.1324091457.-2207520000.&type=3) |
+| 27|![фото музыканта](27.jpg) | М | Нет | Нет | Да | [Ссылка](https://www.facebook.com/alexhorton01/about) | [Ссылка](https://www.facebook.com/photo.php?fbid=10217286112407869&set=pb.1324091457.-2207520000.&type=3) |
 | 28|![фото музыканта](28.jpg) | М | Да | Нет | Да | [Ссылка](https://www.facebook.com/david.manuel/about) | [Ссылка](https://www.facebook.com/photo/?fbid=10207948892072543&set=a.1529188922049) |
 | 29|![фото музыканта](29.jpg) | Ж | Нет | Да | Да | [Ссылка](https://www.facebook.com/frogsoup/about) | [Ссылка](https://www.facebook.com/photo/?fbid=10101117069929907&set=a.717365711407) |
 | 30|![фото музыканта](30.jpg) | Ж | Нет | Да | Да | [Ссылка](https://www.facebook.com/anna.m.dodd/about) | [Ссылка](https://www.facebook.com/photo.php?fbid=839445617880&set=pb.78900539.-2207520000.&type=3) |
