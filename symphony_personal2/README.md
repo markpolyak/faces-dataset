@@ -57,7 +57,7 @@
 |![](image65.jpeg)|Ж|Нет|Да|-|[Ссылка](https://vk.com/le_space)|[Ссылка](https://vk.com/le_space)|
 |![](image66.jpeg)|Ж|Нет|Нет|-|[Ссылка](https://vk.com/id6576592)|[Ссылка](https://vk.com/id6576592)|
 |![](image67.jpeg)|Ж|Нет|Нет|-|[Ссылка](https://vk.com/tatatimberlake)|[Ссылка](https://vk.com/tatatimberlake)|
-|![](image68.jpeg)|Ж|Нет|Нет|-|[Ссылка]()|[Ссылка]()|
+|![](image118.jpeg)|Ж|Нет|Нет|-|[Ссылка](https://vk.com/kuranta)|[Ссылка](https://vk.com/kuranta)|
 |![](image69.jpeg)|Ж|Нет|Нет|-|[Ссылка](https://vk.com/gilanyusha)|[Ссылка](https://vk.com/gilanyusha)|
 |![](image70.jpeg)|Ж|Нет|Нет|-|[Ссылка](https://vk.com/id178488035)|[Ссылка](https://vk.com/id178488035)|
 |![](image71.jpeg)|Ж|Нет|Нет|-|[Ссылка](https://vk.com/aa.safronova)|[Ссылка](https://vk.com/aa.safronova)|
