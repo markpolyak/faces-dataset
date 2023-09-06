@@ -75,4 +75,30 @@
 | 73 |![](img73.png)  | М | Да | Нет | Нет | [Ссылка](https://www.instagram.com/akim1okan/) |
 | 74 |![](img74.png)  | М | Да | Нет | Нет | [Ссылка](https://www.instagram.com/gur_am/) |
 | 75 |![](img75.png)  | М | Да | Нет | Нет | [Ссылка](https://www.instagram.com/a774kk/) |
+| 76 |![](img76.png)  | М | Нет | Нет | Нет | [Ссылка](https://www.instagram.com/iliaskokotos/) |
+| 77 |![](img77.png)  | М | Нет | Нет | Нет | [Ссылка](https://www.instagram.com/alex_golovin17/) |
+| 78 |![](img78.png)  | М | Нет | Нет | Нет | [Ссылка](https://www.instagram.com/filershov/) |
+| 79 |![](img79.png)  | М | Нет | Нет | Нет | [Ссылка](https://www.instagram.com/from_jjlee/) |
+| 80 |![](img80.png)  | М | Нет | Да | Нет | [Ссылка](https://www.instagram.com/kataev2024/) |
+| 81 |![](img81.png)  | М | Нет | Нет | Нет | [Ссылка](https://www.instagram.com/nick_mart_/) |
+| 82 |![](img82.png)  | М | Нет | Нет | Нет | [Ссылка](https://www.instagram.com/tomholland2013/) |
+| 83 |![](img83.png)  | М | Нет | Нет | Нет | [Ссылка](https://www.instagram.com/gr_vernik/) |
+| 84 |![](img84.png)  | М | Нет | Нет | Нет | [Ссылка](https://www.instagram.com/jackiechan/) |
+| 85 |![](img85.png)  | М | Нет | Нет | Нет | [Ссылка](https://www.instagram.com/jackiechan/) |
+| 86 |![](img86.png)  | М | Нет | Нет | Нет | [Ссылка] |
+| 87 |![](img87.png)  | М | Нет | Нет | Нет | [Ссылка] |
+| 88 |![](img88.png)  | М | Нет | Нет | Нет | [Ссылка] |
+| 89 |![](img89.png)  | М | Нет | Нет | Нет | [Ссылка] |
+| 90 |![](img90.png)  | М | Нет | Нет | Нет | [Ссылка] |
+| 91 |![](img91.png)  | М | Нет | Нет | Нет | [Ссылка] |
+| 92 |![](img92.png)  | М | Нет | Нет | Нет | [Ссылка] |
+| 93 |![](img93.png)  | М | Нет | Нет | Нет | [Ссылка] |
+| 94 |![](img94.png)  | М | Нет | Нет | Нет | [Ссылка] |
+| 95 |![](img95.png)  | М | Нет | Нет | Нет | [Ссылка] |
+| 96 |![](img96.png)  | М | Нет | Нет | Нет | [Ссылка] |
+| 97 |![](img97.png)  | М | Нет | Нет | Нет | [Ссылка] |
+| 98 |![](img98.png)  | М | Нет | Нет | Нет | [Ссылка] |
+| 99 |![](img99.png)  | М | Нет | Нет | Нет | [Ссылка] |
+| 100 |![](img100.png)  | М | Нет | Нет | Нет | [Ссылка] |
+
 
