@@ -70,3 +70,9 @@
 | 68 |![](img68.png)  | М | Да | Нет | Нет | [Ссылка](https://www.instagram.com/tamaaev/) |
 | 69 |![](img69.png)  | М | Да | Нет | Нет | [Ссылка](https://www.instagram.com/mikhail_litvin/) |
 | 70 |![](img70.png)  | М | Да | Нет | Нет | [Ссылка](https://www.instagram.com/tambi_masaev/) |
+| 71 |![](img71.png)  | М | Да | Нет | Нет | [Ссылка](https://www.instagram.com/gafur.lv/) |
+| 72 |![](img72.png)  | М | Да | Нет | Нет | [Ссылка](https://www.instagram.com/ilia._.makarov/) |
+| 73 |![](img73.png)  | М | Да | Нет | Нет | [Ссылка](https://www.instagram.com/akim1okan/) |
+| 74 |![](img74.png)  | М | Да | Нет | Нет | [Ссылка](https://www.instagram.com/gur_am/) |
+| 75 |![](img75.png)  | М | Да | Нет | Нет | [Ссылка](https://www.instagram.com/a774kk/) |
+
