@@ -60,3 +60,13 @@
 | 58 |![](img58.png)  | М | Да | Нет | Нет | [Ссылка](https://www.instagram.com/serder_/) |
 | 59 |![](img59.png)  | М | Да | Нет | Нет | [Ссылка](https://www.instagram.com/amirkingkhan/) |
 | 60 |![](img60.png)  | М | Да | Нет | Нет | [Ссылка](https://www.instagram.com/sapar91/) |
+| 61 |![](img61.png)  | М | Да | Нет | Нет | [Ссылка](https://www.instagram.com/pozov/) |
+| 62 |![](img62.png)  | М | Да | Нет | Нет | [Ссылка](https://www.instagram.com/egorkreed/) |
+| 63 |![](img63.png)  | М | Да | Нет | Нет | [Ссылка](https://www.instagram.com/roman_avdal/) |
+| 64 |![](img64.png)  | М | Да | Нет | Нет | [Ссылка](https://www.instagram.com/islam_makhachev/) |
+| 65 |![](img65.png)  | М | Да | Нет | Нет | [Ссылка](https://www.instagram.com/jony.me/) |
+| 66 |![](img66.png)  | М | Да | Нет | Нет | [Ссылка](https://www.instagram.com/wengallbi_tm/) |
+| 67 |![](img67.png)  | М | Да | Нет | Нет | [Ссылка](https://www.instagram.com/jasonstatham/) |
+| 68 |![](img68.png)  | М | Да | Нет | Нет | [Ссылка](https://www.instagram.com/tamaaev/) |
+| 69 |![](img69.png)  | М | Да | Нет | Нет | [Ссылка](https://www.instagram.com/mikhail_litvin/) |
+| 70 |![](img70.png)  | М | Да | Нет | Нет | [Ссылка](https://www.instagram.com/tambi_masaev/) |
